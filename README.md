@@ -6,4 +6,4 @@
 2. [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/pdf/1907.10045.pdf) (ICCV2019)
 
 ## External View
-1. [Integral Human Pose Regression] (https://arxiv.org/pdf/1711.08229.pdf)
+1. [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf)
