@@ -8,6 +8,7 @@
 ## External View
 1. [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017) [code](https://github.com/una-dinosauria/3d-pose-baseline)
 2. [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
+3. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf) (CVPR2018)
 
 ## To Read
 
