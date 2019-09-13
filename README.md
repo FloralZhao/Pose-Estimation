@@ -17,3 +17,5 @@
 
 - [ ] [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
 - [ ] [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017)
+- [ ] [Convolutional Pose Machine]
+- [ ] [Deep Pose] 
