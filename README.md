@@ -12,6 +12,7 @@
 3. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf) (CVPR2018)
 ### 2D
 1. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
+2. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
 
 ## Wearable Devices
 1. [Motion Capture from Body-Mounted Cameras](http://delivery.acm.org/10.1145/1970000/1964926/a31-shiratori.pdf?ip=152.2.130.153&id=1964926&acc=ACTIVE%20SERVICE&key=AA86BE8B6928DDC7%2EB2ED415011FB783D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568305772_99e97febd0c093b4771877e194accd32) (TOG2011)
@@ -21,4 +22,4 @@
 - [x] [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
 - [ ] [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017)
 - [ ] [Convolutional Pose Machine]
-- [ ] [Deep Pose] 
+- [x] Deep Pose
