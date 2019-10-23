@@ -10,6 +10,7 @@
 1. [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017) [code](https://github.com/una-dinosauria/3d-pose-baseline)
 2. [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
 3. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf) (CVPR2018)
+4. [Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf) (CVPR2019) [code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)
 ### 2D
 1. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
 2. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
@@ -23,3 +24,4 @@
 - [ ] [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017)
 - [ ] [Convolutional Pose Machine]
 - [x] Deep Pose
+- [ ] [Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network (http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf)
