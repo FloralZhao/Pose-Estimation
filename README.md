@@ -19,7 +19,7 @@
 2. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
 3. [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (CVPR2016) [code(caffe)](https://arxiv.org/pdf/1602.00134.pdf)
 4. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
-5. [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf)
+5. [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf) (NIPS2014)
 
 
 ## Wearable Devices
