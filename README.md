@@ -1,8 +1,7 @@
 # Pose-Estimation
 
 ## Egocentric view
-1. [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/pdf/1907.10045.pdf) (ICCV2019)
-(https://github.com/microsoft/multiview-human-pose-estimation-pytorch)
+1. [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/pdf/1907.10045.pdf) (ICCV2019) [code(only DataLoader)](https://github.com/facebookresearch/xR-EgoPose)
 2. [Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera.](http://gvv.mpi-inf.mpg.de/projects/wxu/Mo2Cap2/) (TVCG2019)
 3. [EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras](https://gvv.mpi-inf.mpg.de/projects/EgoCap/) (2016)
 
