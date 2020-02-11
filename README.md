@@ -15,6 +15,7 @@
 1. [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) (ECCV2018) [code](https://github.com/microsoft/human-pose-estimation.pytorch)
 2. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
 3. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
+4. [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (CVPR2016) [code(caffe)](https://arxiv.org/pdf/1602.00134.pdf)
 
 ## Wearable Devices
 1. [Motion Capture from Body-Mounted Cameras](http://delivery.acm.org/10.1145/1970000/1964926/a31-shiratori.pdf?ip=152.2.130.153&id=1964926&acc=ACTIVE%20SERVICE&key=AA86BE8B6928DDC7%2EB2ED415011FB783D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568305772_99e97febd0c093b4771877e194accd32) (TOG2011)
