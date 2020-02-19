@@ -26,9 +26,12 @@
 
 ## Wearable Devices
 1. [Motion Capture from Body-Mounted Cameras](http://delivery.acm.org/10.1145/1970000/1964926/a31-shiratori.pdf?ip=152.2.130.153&id=1964926&acc=ACTIVE%20SERVICE&key=AA86BE8B6928DDC7%2EB2ED415011FB783D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568305772_99e97febd0c093b4771877e194accd32) (TOG2011)
-
+<!---
 ## To Read
 
 - [ ] [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017)
 - [ ] [Convolutional Pose Machine]
 - [ ] [Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network (http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf)
+
+
+-->
