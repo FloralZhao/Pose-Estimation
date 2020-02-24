@@ -11,9 +11,9 @@
 2. [3D human pose estimation in video with temporal convolutions and semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) (CVPR2019) [code](https://github.com/facebookresearch/VideoPose3D)
 3. [Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf) (CVPR2019) [code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)
 4. [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212.pdf) (CVPR2019) [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
-4. [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
-5. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf) (CVPR2018)
-6. [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017) [code](https://github.com/una-dinosauria/3d-pose-baseline) 
+5. [Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) (ECCV2018)
+6. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf) (CVPR2018)
+7. [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (ICCV2017) [code](https://github.com/una-dinosauria/3d-pose-baseline) 
 
 
 ### 2D
