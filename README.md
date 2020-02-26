@@ -19,11 +19,12 @@
 ### 2D 
 1. [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) (ECCV2018) [code](https://github.com/microsoft/human-pose-estimation.pytorch)
 2. [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/pdf/1711.07319.pdf) (CVPR2018) [code](https://github.com/chenyilun95/tf-cpn)
-3. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
-4. [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (CVPR2016) [code(caffe)](https://arxiv.org/pdf/1602.00134.pdf)
-5. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
-6. [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](http://human-pose.mpi-inf.mpg.de/contents/andriluka14cvpr.pdf) (CVPR2014)
-7. [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf) (NIPS2014)
+3. [Human Pose Estimation using Deep Consensus Voting](https://arxiv.org/pdf/1603.08212.pdf) (ECCV2016)
+4. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
+5. [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (CVPR2016) [code(caffe)](https://arxiv.org/pdf/1602.00134.pdf)
+6. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
+7. [2D Human Pose Estimation: New Benchmark and State of the Art Analysis](http://human-pose.mpi-inf.mpg.de/contents/andriluka14cvpr.pdf) (CVPR2014)
+8. [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf) (NIPS2014)
 
 
 
