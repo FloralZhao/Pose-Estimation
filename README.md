@@ -20,6 +20,7 @@
 1. [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) (ECCV2018) [code](https://github.com/microsoft/human-pose-estimation.pytorch)
 2. [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/pdf/1711.07319.pdf) (CVPR2018) [code](https://github.com/chenyilun95/tf-cpn)
 3. [Human Pose Estimation using Deep Consensus Voting](https://arxiv.org/pdf/1603.08212.pdf) (ECCV2016)
+4. [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/pdf/1603.06937.pdf) (ECCV2016)
 4. [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) (CVPR2016)
 5. [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (CVPR2016) [code(caffe)](https://arxiv.org/pdf/1602.00134.pdf)
 6. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf) (CVPR2014)
