@@ -17,7 +17,7 @@
 
 
 ### 2D 
-4. [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212.pdf) (CVPR2019) [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+1. [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212.pdf) (CVPR2019) [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 1. [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) (ECCV2018) [code](https://github.com/microsoft/human-pose-estimation.pytorch)
 2. [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/pdf/1711.07319.pdf) (CVPR2018) [code](https://github.com/chenyilun95/tf-cpn)
 3. [Human Pose Estimation using Deep Consensus Voting](https://arxiv.org/pdf/1603.08212.pdf) (ECCV2016)
